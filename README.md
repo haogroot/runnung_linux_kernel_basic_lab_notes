@@ -1,5 +1,5 @@
 # runnung_linux_kernel_basic_lab_notes
-如實紀錄研讀 [奔跑吧 linux 內核 入門篇](https://www.tenlong.com.tw/products/9787115502261?list_name=srh) 每道習題的筆記與疑問。
+如實紀錄研讀 [奔跑吧 linux 內核 入門篇](https://www.tenlong.com.tw/products/9787115502261?list_name=srh) 每道習題的疑問，避免自己「 舉燭 」來學習 linux kernel，若是書中有提及的就不在此另外紀錄。
 程式碼詳見另一個 [repository](https://github.com/haogroot/runninglinuxkernel_4.0)
 
 # 章節習題
